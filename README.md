@@ -6,6 +6,12 @@ This project focuses on improving attendance management through automation, QR t
 
 ---
 
+# Live Demo
+
+https://abhiurs.github.io/qr-attendance-system/
+
+---
+
 # Project Overview
 
 Traditional attendance systems are often time-consuming and prone to errors or proxy attendance. This project provides a smart digital solution where attendance can be marked instantly using QR codes.
@@ -64,12 +70,13 @@ The application includes separate portals for students and teachers, QR generati
 * Visual Studio Code
 * Git
 * GitHub
+* GitHub Pages
 
 ---
 
 # Project Structure
 
-```bash
+```bash id="u2hl29"
 qr-attendance-system/
 │
 ├── .github/
@@ -139,19 +146,19 @@ qr-attendance-system/
 
 ## Clone the Repository
 
-```bash
+```bash id="t3y8rq"
 git clone https://github.com/abhiurs/qr-attendance-system.git
 ```
 
 ## Navigate to the Project Directory
 
-```bash
+```bash id="lfd7nf"
 cd qr-attendance-system
 ```
 
 ## Open in Visual Studio Code
 
-```bash
+```bash id="7mvnhx"
 code .
 ```
 
@@ -159,7 +166,7 @@ code .
 
 Open:
 
-```bash
+```bash id="o8nj3v"
 index.html
 ```
 
@@ -181,7 +188,7 @@ Install the **Live Server** extension in VS Code.
 
 Right-click:
 
-```bash
+```bash id="2jlwmn"
 index.html
 ```
 
@@ -189,7 +196,7 @@ index.html
 
 Click:
 
-```bash
+```bash id="3jlwmn"
 Open with Live Server
 ```
 
